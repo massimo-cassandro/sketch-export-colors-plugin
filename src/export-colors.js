@@ -55,8 +55,9 @@ const shortenHexColors = true,
   alignValues = true,
   
   formats = {
-    'Sass/Less' : {name: 'sass', prefix: '$'}, 
-    'CSS custom properties': {name: 'css', prefix: '--'}
+    'Sass' : {name: 'sass', prefix: '$'}, 
+    'CSS custom properties': {name: 'css', prefix: '--'}, 
+    'Less': {name: 'less', prefix: '@'}
   },
   notations = {
     'Hex':       {name: 'hex',  alpha: false}, 
