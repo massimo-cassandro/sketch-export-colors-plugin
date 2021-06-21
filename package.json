@@ -1,7 +1,7 @@
 {
   "name": "export-colors",
   "description": "Export document color components",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "sketch": ">=60.0"
   },
