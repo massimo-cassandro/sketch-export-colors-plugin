@@ -5,6 +5,10 @@
   "engines": {
     "sketch": ">=60.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/massimo-cassandro/sketch-export-colors-plugin"
+  },
   "skpm": {
     "name": "export-colors",
     "manifest": "src/manifest.json",
