@@ -1,5 +1,6 @@
 # build artifacts
 export-colors.sketchplugin
+export-colors.sketchplugin.zip
 
 # npm
 node_modules
